@@ -56,6 +56,7 @@
                 })
                 fadeOutEffect();
             }
+            window.location.hash = hash;
         }
     }
 }) 
